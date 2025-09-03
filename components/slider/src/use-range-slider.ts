@@ -464,7 +464,7 @@ export const useRangeSlider_unstable = (
       focusThumb,
     ]
   );
-
+  console.log("test");
   return {
     root: getNativeElementProps(
       "span",
